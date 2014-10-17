@@ -1,0 +1,5 @@
+name = Agile Humaniteis DiRT
+description = DiRT Services
+core = 7.x
+package = Agile Humanities
+version = 7.x-1.0
